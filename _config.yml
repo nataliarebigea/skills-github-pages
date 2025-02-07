@@ -1,6 +1,12 @@
 theme: minima
-title: Cabană Arieșeni
-1. Clonează depozitul:
-   ```bash
-   git clone https://github.com/nataliarebigea/proiect.git
+# Cabană Arieșeni
+
+   Acesta este un proiect demonstrativ.
+
+   ## Cum să folosești
+   - Clonează repository-ul.
+   - Deschide fișierul cabanaproiect.html.
+
+   ## Link-uri utile
+   [GitHub Pages](https://pages.github.com/)
 
