@@ -1,2 +1,11 @@
 theme: minima
-title: Cabană Arieșeni
+# Cabană Arieșeni
+
+Acest site descrie date importante cu privire la cabană.
+
+
+
+1. Clonează depozitul:
+   ```bash
+   git clone https://github.com/nataliarebigea/proiect.git
+
